@@ -1,4 +1,4 @@
 # langchain-e-python-alura
-Código e Atividades do curso de Langchain com Python da Alura
+Código e Atividades do curso de Langchain com Python da Alura, utilizando o Modelo "google/gemma-3n-e4b" rodando Localmente ao invés do "gpt-3.5-turbo"
 
-Aula 1 - Introdução ao Langchain (alterado para utilizar o Modelo rodando localmente no LM Studio)
+Aula 1 - Introdução ao Langchain
