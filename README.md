@@ -4,3 +4,5 @@ Código e Atividades do curso de Langchain com Python da Alura, utilizando o Mod
 Aula 1 - Introdução ao Langchain
 
 Aula 2 - Uso de memória para ter histórico e contexto nas requisições ao Modelo
+
+Aula 3 - Orquestrando assistentes com LangGraph
