@@ -6,3 +6,5 @@ Aula 1 - Introdução ao Langchain
 Aula 2 - Uso de memória para ter histórico e contexto nas requisições ao Modelo
 
 Aula 3 - Orquestrando assistentes com LangGraph
+
+Aula 4 - Implementando RAG
